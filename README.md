@@ -1,2 +1,4 @@
-# laser-defender
-The files in this repository are snippets of code that I wrote for my game Laser Defender.
+# Code-Snippets
+
+This repository contains various projects that I have done in class or on my own time.
+Inside the projects are code examples from the programs.
