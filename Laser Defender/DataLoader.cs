@@ -153,6 +153,7 @@ public class DataLoader : MonoBehaviour {
 
 }
 
+// This is a class that can be used to store the data for the player into a file
 [Serializable]
 class PlayerData
 {
