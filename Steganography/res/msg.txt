@@ -1,0 +1,23 @@
+This will be the hidden message. This should hopefully appear
+correctly when reading the image, given that it was properly 
+encoded into the image itself. PLEASE, PLEASE WORK!!!? :)
+
+The biological principle of DTI is how water diffuses throughout tissues. 
+The factors affecting the diffusion are temperature, hydration effect, 
+compartmentalization, and obstruction. Diffusion is the transport process 
+in which molecules change their position by random thermal collisions.
+
+The physical principle of DTI is that water diffuses in different manners 
+between gray matter and white matter. In gray matter, water can diffuse in 
+any direction (isotropic diffusion), but in white matter, water can only 
+diffuse along the axons (anisotropic diffusion). There is no common 
+directionality found in the gray matter which is why is diffuses in any 
+direction, and water will follow the path of least resistance in the white 
+matter which is why is diffuses along the axons and not between them.
+
+The mathematical principle of DTI streamline tractography is the tracing 
+of the principal diffusion directions. There are two thresholds for the 
+stop criteria of the trace. The first threshold is the angle between the 
+principal directions. For example, if the angle is greater than 70 or 75 
+degrees, you would stop for that trace. The second is based on the lowest 
+FA value that is accepted.
